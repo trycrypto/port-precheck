@@ -1,10 +1,10 @@
 {
-  "name": "port-precheck",
+  "name": "@trycrypto/port-precheck",
   "description": "Checks if port is in use. Used in npm scripts ex: port-precheck 3000",
   "version": "1.0.0",
   "main": "index.js",
   "bin": "cli.js",
-  "repository": "https://github.com/jsheely/port-precheck",
+  "repository": "https://github.com/trycrypto/port-precheck",
   "author": "Jonathan Sheely",
   "license": "MIT",
   "dependencies": {
